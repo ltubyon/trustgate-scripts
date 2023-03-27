@@ -11,8 +11,8 @@ ubos_install.sh
 
   Note the following string patterns should be replaced before user runs
   'ubos_install.sh':
-  -. %(QUAY_IO_TOKEN)s
-  -. %(CLUSTER_UUID)s
-  -. %(NODE_UUID)s
-  -. %(CORE_SERVER_ENDPOINT)s
-  -. %(USER_BLOB)s
+  * %(QUAY_IO_TOKEN)s
+  * %(CLUSTER_UUID)s
+  * %(NODE_UUID)s
+  * %(CORE_SERVER_ENDPOINT)s
+  * %(USER_BLOB)s
